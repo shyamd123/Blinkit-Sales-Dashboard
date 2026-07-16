@@ -25,6 +25,7 @@ The Blinkit Sales Dashboard is an interactive tool designed to analyze and visua
 <li> Data Cleaning & Transformation</li>
 
 ## dashbord
-"C:\Users\hitech\Pictures\Screenshots\Dashboard img.png"
+<img width="1127" height="687" alt="Dashboard img" src="https://github.com/user-attachments/assets/380ebc8d-0038-4020-98dd-9f807a121cf9" />
+
 
 

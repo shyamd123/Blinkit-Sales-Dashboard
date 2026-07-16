@@ -12,3 +12,16 @@ The Blinkit Sales Dashboard is an interactive tool designed to analyze and visua
 <li> Fat Content Analysis – Comparison between low-fat and regular products.</li>
 <li> Year-wise Growth – Sales trends based on establishment year.</li>
 <li> Filter Panel – Dynamic filtering by outlet location, size, and item type.</li>
+
+# Dashboard Insights
+<li> Tier 3 outlets generate the highest sales contribution.</li>
+<li> Medium-sized outlets dominate with over 42% share.</li>
+<li> Regular fat products contribute more to total sales compared to low-fat items.</li>
+<li> Sales have shown steady growth over the years, with a peak around 2018.</li>
+
+# Tools & Technologies
+<li> Power BI / Excel (for dashboard creation)</li>
+<li> Data Visualization Techniques</li>
+<li> Data Cleaning & Transformation</li>
+
+
